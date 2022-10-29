@@ -10,6 +10,7 @@ This form will contain:
 
 ✓ Password input with label
 
+✓ Toggle Show Hide Password with svg icons
 
 ✓ Inputs have two CSS on focus animations
 
